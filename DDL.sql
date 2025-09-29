@@ -147,4 +147,5 @@ DROP TABLE Participation;
 DROP TABLE ContactRelation;
 DROP TABLE ZoomMeeting;
 DROP TABLE Contact;
+
 DROP TABLE Folder;
